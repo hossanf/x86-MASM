@@ -1,5 +1,5 @@
 # x86-MASM
-The purpose of this assignment is to reinforce concepts related to string primitive instructions and macros.
+The purpose of this program is to reinforce concepts related to string primitive instructions and macros.
 
     - Designing, implementing, and calling low-level I/O procedures
     - Implementing and using macros
